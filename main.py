@@ -3,4 +3,5 @@ def print_message():
 
 
 if __name__ == "__main__":
+    pass
     print_message()
